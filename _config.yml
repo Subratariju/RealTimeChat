@@ -1,1 +1,3 @@
 theme : jeykll-theme-merlot
+theme: minima
+remote_theme: THEME-NAME
